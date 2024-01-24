@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture_informal.jpg # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Zusebau, Room 2085</p>
     <p>Helmholtzplatz 5</p>
-    <p>98693, Ilmenau (Germany)</p>
+    <p>98693, Ilmenau (DE)</p>
     
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
