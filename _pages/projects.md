@@ -1,11 +1,15 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A space where I share projects I’m working on—experiments in AI, programming, and engineering.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories:
+  - Work
+  - Artificial Intelligence
+  - Computer Vision
+  - Electronics
 horizontal: false
 ---
 
