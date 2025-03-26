@@ -87,23 +87,23 @@
     {
       "institution": "Technische Universität Ilmenau, Ilmenau, Germany",
       "location": "Ilmenau, Germany",
-      "url": "https://uis.edu.co/en/",
-      "area": "area: Electronics Engineering",
-      "studyType": "BSc. in Electronics Engineering (five years program)",
-      "startDate": "2009-02",
-      "endDate": "2016-09",
-      "courses": ["Analog/Digital design", "Embedded Systems", "Signal and Information Processing"]
-    },
-    {
-      "institution": "Universidad Industrial de Santander, Bucaramanga, Colombia",
-      "location": "Bucaramanga, Colombia",
       "url": "https://www.tu-ilmenau.de/",
       "area": "area: Computer and Systems Engineering",
       "studyType": "MSc. in Computer and Systems Engineering",
       "startDate": "2021-10",
       "endDate": "2023-08",
       "courses": ["Systems Engineering", "Software Engineering", "Deep Learning"]
-    }
+    },
+    {
+      "institution": "Universidad Industrial de Santander, Bucaramanga, Colombia",
+      "location": "Bucaramanga, Colombia",
+      "url": "https://uis.edu.co/en/",
+      "area": "area: Electronics Engineering",
+      "studyType": "BSc. in Electronics Engineering (five years program)",
+      "startDate": "2009-02",
+      "endDate": "2016-09",
+      "courses": ["Analog/Digital design", "Embedded Systems", "Signal and Information Processing"]
+    }    
   ],
   "awards": [
     {
