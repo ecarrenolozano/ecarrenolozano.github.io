@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-design-patterns-in-python",
+        
+          title: "Design Patterns in Python",
+        
+        description: "A practical guide to implementing core design patterns in Python to improve code structure, reusability, and clarity in real-world applications.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/design_patterns_python/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
